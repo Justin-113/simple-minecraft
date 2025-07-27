@@ -41,7 +41,7 @@
 1. Clone or download the repo:
 
    ```bash
-   git clone https://github.com/your-username/simple-minecraft.git
+   git clone https://github.com/Justin-113/simple-minecraft.git
    cd simple-minecraft
    ```
 
@@ -56,29 +56,76 @@
 ## 📸 Sample Gameplay
 
 ```
++-----+-----+-----+-----+-----+
++      M I N E C R A F T      +
++-----+-----+-----+-----+-----+
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
++-----+-----+-----+-----+-----+
 Please choose the block you want to place in map:
 1. Grass
 2. Stone
 3. Iron
-> 2
-
-please enter row and column you want to place:
-> 2 2
-
-Do you want to continue to place block? (y/n)
-> n
-
-please enter player position:
-> 1 1
-
-Please input direction (w/a/s/d/b):
-> s
-Move down
-
-Please input direction (w/a/s/d/b):
-> b
-Please input break direction (w/a/s/d):
-> s
+1
+please enter row and column you want to place: 2 2
++-----+-----+-----+-----+-----+
++      M I N E C R A F T      +
++-----+-----+-----+-----+-----+
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+              ~~~            
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
++-----+-----+-----+-----+-----+
+Do you want to continue to place block?(y/n) n
+please enter player position: 1 1
++-----+-----+-----+-----+-----+
++      M I N E C R A F T      +
++-----+-----+-----+-----+-----+
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+        ^o^                  
++     +     +     +     +     +
+              ~~~            
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
++-----+-----+-----+-----+-----+
+Please input direction(w/a/s/d/b): a
+Move left
++-----+-----+-----+-----+-----+
++      M I N E C R A F T      +
++-----+-----+-----+-----+-----+
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+  ^o^                        
++     +     +     +     +     +
+              ~~~            
++     +     +     +     +     +
+                             
++     +     +     +     +     +
+                             
++     +     +     +     +     +
++-----+-----+-----+-----+-----+
 ```
 
 ---
